@@ -5,7 +5,6 @@ void main() {
 }
 
 class MyApp extends StatelessWidget {
-  static const String text = "Flat Button presses";
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
